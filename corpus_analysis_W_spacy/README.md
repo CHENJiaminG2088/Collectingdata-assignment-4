@@ -1,7 +1,8 @@
 ## A brief description of the corpus
 
 ### 1.The description of the corpus:
-This corpus comes from(https://www.kaggle.com/datasets/rikdifos/rap-lyrics) and contains the rap lyrics of 36 rappers. It only has lyrics and no album names or other information.
+This corpus comes from(https://www.kaggle.com/datasets/rikdifos/rap-lyrics) and contains the rap lyrics of 36 rappers. The data includes artist names and their rap lyrics but no song titles.
+
 
 ### 2.The target audience and the intended use of the corpus:
 This dataset/corpus may be helpful to people who want to study what their favorite rappers are singing about, or who want to perform sentiment analysis on rap lyrics.
